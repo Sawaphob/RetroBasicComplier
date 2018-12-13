@@ -23,5 +23,3 @@ Example:
 3. Run complier.py to get the output.
 4. If it has any error, you will see the error when you execute the complier.
 5. Output will be name "output.txt".
-
-Enjoys!
