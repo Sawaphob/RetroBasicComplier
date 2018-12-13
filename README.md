@@ -7,12 +7,12 @@ Step to use:
 2. Enter the code that you want to program
 Example: 
 
-10 A = 1\n
-20 IF 10 < A 60 \n
-30 PRINT A\n
-40 A = A + 1\n
-50 GOTO 20\n
-60 STOP\n
+10 A = 1
+20 IF 10 < A 60
+30 PRINT A
+40 A = A + 1
+50 GOTO 20
+60 STOP
 
 3. Run complier.py to get the output.
 4. If it has any error, you will see the error when you execute the complier.
