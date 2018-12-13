@@ -4,7 +4,7 @@ Created by Sawaphob Chavana 5931070221
 
 Step to use:
 1. Create a new file input.txt
-2. Enter the code that you want to program
+2. Enter the code that you want to program.
 Example: 
 
 10 A = 1
